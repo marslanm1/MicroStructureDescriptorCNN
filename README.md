@@ -31,3 +31,8 @@ This expriment uses Corel1k dataset from keggle.
 1. Prepare your dataset as outlined above.
 2. Download .ipynb file
 3. Execute it on Google Colab
+
+## Results
+<p align="center"> <img src="results/sample_result.png" alt="Query and Retrieved Images" width="70%"> </p>
+
+
