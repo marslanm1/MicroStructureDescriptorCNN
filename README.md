@@ -33,6 +33,6 @@ This expriment uses Corel1k dataset from keggle.
 3. Execute it on Google Colab
 
 ## Results
-<p align="center"> <img src="results/sample_result.png" alt="Query and Retrieved Images" width="70%"> </p>
+<p align="center"> <img src="download(09).png" alt="Query and Retrieved Images" width="70%"> </p>
 
 
